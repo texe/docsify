@@ -9,7 +9,7 @@
     * [demo rozdz 2](/demo/#rozdzial-2)
     * [demo rozdz 3](/demo/#rozdzial-3) -->
 - Wstęp
-  - [Opis programu](/)
+  - [Opis programu](/#start)
 - Praca z progrmamem
   - [Katalog demo](demo/)
 - [Changelog](changelog.md)
