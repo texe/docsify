@@ -10,7 +10,7 @@
     * [demo rozdz 3](/demo/#rozdzial-3) -->
 - Getting started
 
-  - [Quick start](/#Docsifyjs-emplate)
+  - [Quick start](/#docsifyjs-template)
 
 - Customization
   - [Katalog demo](demo/)
