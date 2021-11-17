@@ -6,5 +6,5 @@
     * [Bar]()
     * [Baz]()
 - [Katalog demo](/demo/)
-    * [demo rozdz 2](/demo/#rozdzial-2)
-    * [demo rozdz 3](/demo/#rozdzial-3)
+    <!-- * [demo rozdz 2](/demo/#rozdzial-2)
+    * [demo rozdz 3](/demo/#rozdzial-3) -->
