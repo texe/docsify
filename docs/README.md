@@ -11,6 +11,12 @@
 
 <!-- TODO: You can delete the About and Create a Docsify site sections if you create a new project from this template -->
 
+## Intro
+
+This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. 
+This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. This is intro. 
+
+
 ## About
 
 This is a template for a simple but elegant docs site built on _Docsify_ which magically turns your markdown in your `docs` directory into a docs site. 
