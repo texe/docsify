@@ -18,7 +18,7 @@
 
 
 [Przejdź do Infano](https://infano.net) <!-- TODO: Remove on your copy of this template.-->
-[Dokumentacja](#wstep) <!-- TODO: Use ID of your homepage heading -->
+[Dokumentacja](#start) <!-- TODO: Use ID of your homepage heading -->
 
 <!-- TODO: Set your background color or image. -->
 ![color](#b3d9f8)

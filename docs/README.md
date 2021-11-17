@@ -1,5 +1,5 @@
 <!-- TODO: Update with your values. -->
-# Wstęp
+# Start
 > Starter template for a Markdown-based docs site
 
  <!-- TODO: Update repo links and change license type if needed. -->
