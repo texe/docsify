@@ -49,7 +49,15 @@
             loadSidebar: true,
             logo: '/_media/logo-infano.png',
             subMaxLevel: 2,
-            search: 'auto',
+            search:
+            {
+            maxAge: 86400000, // Expiration time, the default one day
+            paths: 'auto',
+            placeholder: 'Type to search',
+            noData: 'No Results!',
+            depth: 6,
+            hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+            }
             themeColor: "#3271a8", // TODO: Set your own color.
 
             plugins: [
