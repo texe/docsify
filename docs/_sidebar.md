@@ -8,9 +8,11 @@
 - [Katalog demo](/demo/)
     * [demo rozdz 2](/demo/#rozdzial-2)
     * [demo rozdz 3](/demo/#rozdzial-3) -->
-- Wstęp
-  - [Quick start](/#start)
 - Customization
   - [Katalog demo](demo/)
+- Wstęp
+  - [Quick start](/#start)
 - [Changelog](changelog.md)
+  
+
 
