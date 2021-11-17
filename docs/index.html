@@ -49,18 +49,14 @@
             loadSidebar: true,
             logo: '/_media/logo-infano.png',
             subMaxLevel: 2,
+            search: 'auto',
             search: {
-          noData: {
-            '/': 'Brak wyników!',
-          },
-          paths: 'auto',
-          placeholder: {
-            '/': 'Szukaj',
-          },
-          pathNamespaces: ['/es', '/de-de', '/ru-ru', '/zh-cn']
-        },
+            noData: 'Niczego nie znaleziono!',
+            paths: 'auto',
+            placeholder: 'Szukaj',
+            hideOtherSidebarContent: false
+            },
             themeColor: "#3271a8", // TODO: Set your own color.
-
             plugins: [
                 EditOnGithubPlugin.create(editPath, null, editMsg)
             ],
