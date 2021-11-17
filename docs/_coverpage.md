@@ -1,7 +1,7 @@
 <h1 id="cover-heading">
   Oficjalna dokumentacja Infano  <!-- TODO: Update title -->
 </h1>
-
+<!-- 
 [![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
 
 >  Starter template for a Markdown-based docs site <!-- TODO: Replace with your description -->
