@@ -7,9 +7,9 @@
     * [Baz]()
 - [Katalog demo](/demo/)
     * [demo rozdz 2](/demo/#rozdzial-2)
-    * [demo rozdz 3](/demo/#rozdzial-3) -->
+    * [demo rozdz 3](/demo/#rozdzial-3)
 - Wstęp
-  - [Quick start](/#start)
+  - [Quick start](/#start)  -->
 - Customization
   - [Katalog demo](demo/)
 - [Changelog](changelog.md)
