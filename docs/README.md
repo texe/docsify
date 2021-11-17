@@ -37,7 +37,9 @@ To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań.
 To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. 
 
 
+### PodWymagania
 
+To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. 
 
 
 
