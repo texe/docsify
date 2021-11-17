@@ -5,4 +5,7 @@
 - Foo
     * [Bar]()
     * [Baz]()
-[link](/demo/)
+- [Katalog demo](/demo/)
+    * [demo tytuł](/demo/#readme-z-katalogu-demo)
+    * [demo tytuł](/demo/#rozdzial-2)
+    * [demo tytuł](/demo/#rozdzial-3)
