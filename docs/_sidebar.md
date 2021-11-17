@@ -10,9 +10,7 @@
     * [demo rozdz 3](/demo/#rozdzial-3) -->
 - Wstęp
   - [Quick start](/#start)
-
 - Customization
   - [Katalog demo](demo/)
-
 - [Changelog](changelog.md)
 
