@@ -84,3 +84,8 @@ echo "Hello, World"
 ?> Sample hint
 
 !> Sample warning 
+
+
+# Rozdzial 2
+
+to jest rozdzial 2
