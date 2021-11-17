@@ -48,7 +48,7 @@ To jest praca z programem. To jest praca z programem. To jest praca z programem.
 
 
 
-To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
+To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z lipa programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
 
 
 
@@ -58,3 +58,22 @@ To jest praca z programem. To jest praca z programem. To jest praca z programem.
 
 
 To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
+
+
+
+
+To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
+
+
+
+
+---
+
+To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
+
+
+
+To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
+
+
+
