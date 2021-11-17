@@ -11,6 +11,9 @@
 - Szybki start
   - [Quick start](/#start)
 
+- Szybki start 2
+  - [Szybki start 2](/)
+
 - Customization
   - [Katalog demo](demo/)
 
