@@ -1,5 +1,5 @@
 <h1 id="cover-heading">
-  My DocsifyJS Template  <!-- TODO: Update title -->
+  Oficjalna dokumentacja Infano  <!-- TODO: Update title -->
 </h1>
 
 [![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
